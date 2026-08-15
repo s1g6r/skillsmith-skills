@@ -3,8 +3,8 @@
 Two Claude Code skills, free, no catch: `commit-hygiene` and
 `release-notes`. If these save you time, the paid **Launch Kit** has four
 more for shipping a solo app — store listings, launch video scripts,
-landing page copy, and onboarding docs. [Link on gumroad.com — see the
-main listing.]
+landing page copy, and onboarding docs. **[Get the Launch Kit →
+GUMROAD_URL_HERE]**
 
 ## Install
 
